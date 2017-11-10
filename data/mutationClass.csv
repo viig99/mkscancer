@@ -1,0 +1,10 @@
+geneMutation,geneClass
+Likely Loss-of-function,1
+Likely Gain-of-function,2
+Neutral,3
+Loss-of-function,4
+Likely Neutral,5
+Inconclusive,6
+Gain-of-function,7
+Likely Switch-of-function,8
+Switch-of-function,9
